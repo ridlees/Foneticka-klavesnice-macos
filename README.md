@@ -1,5 +1,5 @@
 # Fonteticka-klavesnice-macos
-Krátký vhled do instalace fonetické klávesnice do macOS
+Krátký vhled do instalace fonetické klávesnice na macOS
 
 
 # MacOS a fonetická klávesnice v pár krocích
