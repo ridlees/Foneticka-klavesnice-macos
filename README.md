@@ -1,4 +1,4 @@
-# Fonteticka-klavesnice-macos
+# Foneticka-klavesnice-macos
 Krátký vhled do instalace fonetické klávesnice na macOS
 
 
