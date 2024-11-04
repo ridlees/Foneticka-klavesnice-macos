@@ -14,7 +14,7 @@ Potřebujeme: Zařízení s MacOS
 
 ## Krok 1 - stažení potřebných věcí
 
-1. Stáhneme nástroj [Keyman]((https://keyman.com/mac/download))
+1. Stáhneme nástroj [Keyman](https://keyman.com/mac/download)
 
 ## Krok 2 - Instalace
 1. Otevřeme soubor Keyman.dmg (nejspíše se bude jmenovat něco jako keyman-17.0.331.dmg
